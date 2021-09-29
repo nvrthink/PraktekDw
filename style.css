@@ -1,0 +1,21 @@
+section, h1, nav, article {
+  	text-align: center;
+  }
+
+aside {
+  width: 10%;
+  text-align: center;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+section {
+	margin-left: 230px;
+}	
+
+#article-pengertian {
+	margin-left: 230px;
+}
